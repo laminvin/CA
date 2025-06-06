@@ -1,2 +1,2 @@
 # CA
-CA is a phone application designed to help cocoa and copra farmers weigh their products quickly and accurately.This tool aims to save farmers time improve productivity,and reduce errors associated with manual weighing helping them work more effectively.
+CA is a phone application designed to help cocoa and copra farmers weigh their products quickly and accurately.This tool aims to save farmers time improve productivity,and reduce errors associated with manual weighing helping them work more effectively.Farmers can use camera to take photos of their cocoa or copra and CA can give them how much their weights is.CA must give reading of about 5bags of cocoa or copra.
